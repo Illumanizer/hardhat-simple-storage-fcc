@@ -47,3 +47,8 @@ describe("SimpleStorage", function () {
     assert.equal(favoriteNumber, expectedFavoriteNumber)
   })
 })
+
+
+
+//yarn hardhat coverage 
+//## for getting info about coverage of tests in solidity file
